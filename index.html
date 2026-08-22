@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Music Player</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,300;14..32,400;14..32,500;14..32,600;14..32,700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1 id="music-name">Starting from here</h1>
+        <img id="music-cover"  alt="music-cover">
+
+         <!-- اضافه کردن نمایش زمان -->
+    <div class="time-container">
+        <span id="current-time">0:00</span>
+        <input type="range" id="music-time" value="0">
+        <span id="total-time">0:00</span>
+    </div>
+
+    
+       
+        <div class="btns">
+            <i id="pre-btn" class="fas fa-backward"></i>
+            <i id="play-btn" class="fas fa-play"></i>
+            <i id="next-btn" class="fas fa-forward"></i>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
