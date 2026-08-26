@@ -13,7 +13,7 @@ https://roghayem.github.io/music-player/
 
 ## 🖼️ Preview
 
-![Music Player Preview](YOUR-SCREENSHOT-LINK-HERE)
+![Music Player Preview](assest/Music-Player-08-26-2026_09_40_AM.png)
 
 ---
 
