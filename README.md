@@ -7,7 +7,7 @@ A simple and responsive Music Player built using HTML, CSS, and JavaScript. This
 ## 🌟 Live Demo
 
 👉 View Live Demo:
-`YOUR-LIVE-DEMO-LINK-HERE`
+https://roghayem.github.io/music-player/
 
 ---
 
